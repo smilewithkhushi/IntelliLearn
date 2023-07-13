@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/screen2"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="162dp"
+        android:layout_height="181dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="160dp"
+        android:layout_marginBottom="10dp"
+        app:srcCompat="@drawable/vmace_community_logo" />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Intellilearn"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        android:textSize="30sp"
+        android:fontFamily="@font/alata"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The study app for you!"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:fontFamily="@font/alata"
+        android:textColor="@color/black"
+        />
+
+    <Button
+        android:id="@+id/getStartedButton"
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/alata"
+        android:paddingHorizontal="40dp"
+        android:textSize="16sp"
+        android:backgroundTint="@color/indigo"
+        android:text="Click here to get started" />
+
+
+</LinearLayout>

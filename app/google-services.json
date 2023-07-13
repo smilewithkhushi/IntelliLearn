@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "980275414691",
+    "firebase_url": "https://intellilearn-35674-default-rtdb.firebaseio.com",
+    "project_id": "intellilearn-35674",
+    "storage_bucket": "intellilearn-35674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980275414691:android:4cb2126ff6f9913a6da116",
+        "android_client_info": {
+          "package_name": "com.example.intellilearnthestudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980275414691-ld0usi7i5me6dvdqu4s30rdn0j350t46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3i5mkkxvQMIUW-AsrUh791AQl4WdMgKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980275414691-ld0usi7i5me6dvdqu4s30rdn0j350t46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980275414691:android:14eae3d2f9581e2e6da116",
+        "android_client_info": {
+          "package_name": "com.example.intellileawrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980275414691-ld0usi7i5me6dvdqu4s30rdn0j350t46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3i5mkkxvQMIUW-AsrUh791AQl4WdMgKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980275414691-ld0usi7i5me6dvdqu4s30rdn0j350t46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
